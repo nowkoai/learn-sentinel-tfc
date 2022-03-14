@@ -16,7 +16,7 @@ terraform {
     organization = "nw_org"
 
     workspaces {
-      name = "sentinel-example"
+      name = "learn-sentinel-tfc"
     }
   }
 
